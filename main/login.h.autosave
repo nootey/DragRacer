@@ -1,0 +1,27 @@
+#ifndef INPUT_H
+#define INPUT_H
+
+#include <QWidget>
+#include <QObject>
+#include <QLineEdit>
+#include <QtSql>
+
+class Login : public QWidget{
+    Q_OBJECT
+public:
+    Login();
+    QSqlDatabase mydb;
+    void connClose();
+    bool connOpen(){
+        
+        mydb = QSqlDatabase::addDatabase("QSQLITE");
+        mydb.setDatabaseName("D:/QT/Matura/baza/lboards.db");
+    
+        if(db.open())qDebug() << "baza je!";
+        else qDebug() << "baze ni!";
+    }
+    
+};
+
+
+#endif // INPUT_H

@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bar.png</file>
+        <file>meter.png</file>
+        <file>gear.png</file>
+        <file>nitro.png</file>
+        <file>dash.png</file>
+        <file>pos.png</file>
+        <file>progm1.png</file>
+        <file>progm2.png</file>
+        <file>camaro.png</file>
+        <file>huracan.png</file>
+        <file>i8.png</file>
+        <file>porche.png</file>
+        <file>keyboardp1.png</file>
+        <file>keyboardp2.png</file>
+        <file>cesta1.png</file>
+        <file>cesta2.png</file>
+        <file>cesta3.png</file>
+        <file>cesta4.png</file>
+        <file>dusty1.png</file>
+        <file>dusty2.png</file>
+        <file>dusty3.png</file>
+        <file>dusty4.png</file>
+        <file>mainmenu.png</file>
+        <file>cai1.png</file>
+        <file>cai2.png</file>
+        <file>cai3.png</file>
+        <file>cai4.png</file>
+        <file>cai5.png</file>
+        <file>cai6.png</file>
+        <file>selection.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>agera.png</file>
+        <file>ferari.png</file>
+        <file>mclaren.png</file>
+        <file>tesla.png</file>
+        <file>tuatara.png</file>
+        <file>vanquish.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>FredokaOne-Regular.ttf</file>
+    </qresource>
+</RCC>
