@@ -4,10 +4,14 @@ This was my graduation project for Upper Secondary School of Electrical and Comp
 
 It was my first real project. It was made in QTCreator using C++.
 
-## Images
+## Showcase
 
-<p align="center"><a target="_blank"><img src="https://i.imgur.com/bIJChqO.png" width="800"></a></p>
+![Showcase](resources/showcase.gif)
+
+## Maps
 
 <p align="center"><a target="_blank"><img src="https://i.imgur.com/0N1rJxK.png" width="800"></a></p>
 
-<p align="center"><a target="_blank"><img src="https://i.imgur.com/zf6ItF5.png" width="800"></a></p>
+<p align="center"><a target="_blank"><img src="https://i.imgur.com/zf6ItF5.png" width="800"></a>
+
+
